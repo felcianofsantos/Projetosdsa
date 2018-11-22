@@ -1,2 +1,2 @@
 # Projetosdsa
-Projetos Realizados nos curso de  Ciências de Dados e Inteligência Artificial de Data Science Academy
+Projetos Realizados nos curso de  Ciências de Dados e Inteligência Artificial da Data Science Academy
